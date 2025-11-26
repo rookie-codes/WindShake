@@ -1,6 +1,6 @@
 [package]
 name = "rookie-codes/windshake"
-version = "0.1.2"
+version = "0.1.3"
 registry = "https://github.com/UpliftGames/wally-index"
 description = "High performance wind effect for leaves and foliage"
 realm = "shared"
