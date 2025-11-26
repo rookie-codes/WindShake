@@ -1,4 +1,6 @@
 {
-  "name": "windshake",
-  "$path": "src"
-}
+    "name": "windshake",
+    "tree": {
+      "$path": "src"
+    }
+  }
