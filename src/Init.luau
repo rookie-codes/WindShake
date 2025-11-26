@@ -2,8 +2,6 @@
 
 High performance wind effect for leaves and foliage
 
-Docs: https://devforum.roblox.com/t/wind-shake-high-performance-wind-effect-for-leaves-and-foliage/1039806/1
-
 --]=]
 
 local CollectionService = game:GetService("CollectionService")
