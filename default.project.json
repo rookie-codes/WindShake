@@ -1,6 +1,9 @@
 {
   "name": "WindShake",
   "tree": {
-    "$path": "src"
+    "WindShake" : {
+    "$className": "ModuleScript",
+    "$path": "WindShake"
+    }
   }
 }
